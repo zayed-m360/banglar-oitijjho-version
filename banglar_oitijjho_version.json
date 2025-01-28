@@ -4,10 +4,10 @@
     "data": {
         "app_name": "Banglar Oitijjho",
         "package_name": "com.m360ict.banglar_oitijjho",
-        "play_store_version": "1.0.0+1",
+        "play_store_version": "1.0.1+2",
         "app_store_version": "1.0.0+1",
         "microsoft_store_version": "1.0.0+1",
-        "force_update": true,
+        "force_update": false,
         "is_pause": false,
         "app_icon": "20250126174259-45295b47.png",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.m360ict.banglar_oitijjho",
